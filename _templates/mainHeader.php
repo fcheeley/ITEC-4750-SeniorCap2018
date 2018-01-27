@@ -1,7 +1,7 @@
 <?php
 //Change: Updated for consistant paths.
-include($_SERVER['DOCUMENT_ROOT'].'/_php/session.php');
-include($_SERVER['DOCUMENT_ROOT'].'/_php/config.php');
+#include($_SERVER['DOCUMENT_ROOT'].'/_php/session.php');
+#include($_SERVER['DOCUMENT_ROOT'].'/_php/config.php');
 ?>
 
 <!DOCTYPE html>
