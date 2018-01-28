@@ -33,9 +33,7 @@
 		if(mysqli_connect_errno()){  // failed to connect to local db too
 			die('Could not connect: ' . mysqli_connect_error());
 		}
-		else {
-			echo "<script type = 'text/javascript'>alert('Online DB unavailable, connected to local DB');</script>";
-		}
+		
 	 
 	?>
 </body>
