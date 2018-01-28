@@ -36,7 +36,7 @@
 		else {
 			echo "<script type = 'text/javascript'>alert('Online DB unavailable, connected to local DB');</script>";
 		}
-	 }
+	 
 	?>
 </body>
 </html>
