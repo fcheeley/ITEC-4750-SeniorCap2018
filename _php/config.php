@@ -25,7 +25,7 @@
 	 #//if(mysqli_connect_errno()){ // failed to connect to katies database; lets try local host next
 		//-------------SERVER CONNECTION-------------
 		//connection info
-		$hostname = 'mga-db.chdrdc01ua4v.us-east-2.rds.amazonaws.com';
+		$hostname = 'aawxwkk3ifrj12.chdrdc01ua4v.us-east-2.rds.amazonaws.com';
 		$database = 'mga_db'; 
 		$username = 'fcheeley';
 		$password = 'fcheeley123';
