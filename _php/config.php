@@ -26,7 +26,7 @@
 		//-------------SERVER CONNECTION-------------
 		//connection info
 		
-		$dbhost = 'aawxwkk3ifrj12.chdrdc01ua4v.us-east-2.rds.amazonaws.com';
+		$dbhost = 'mga-db.chdrdc01ua4v.us-east-2.rds.amazonaws.com';
 
 		$dbname = 'mga_db'; 
 
