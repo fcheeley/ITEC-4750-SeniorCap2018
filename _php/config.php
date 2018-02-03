@@ -3,6 +3,9 @@
 <?php
 	// $con and $server to be used throughout site
 	// ++++ Change: Added $server variable to make it easy to change reference paths.
+	
+	$server ="//{$_SERVER['SERVER_NAME']}";
+	
 	#//$url = getenv('JAWSDB_MARIA_URL');
 	#//$dbparts = parse_url($url);
 
