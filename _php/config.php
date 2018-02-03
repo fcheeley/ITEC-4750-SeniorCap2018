@@ -30,9 +30,9 @@
 
 		$dbname = 'mga_db'; 
 
-		$dbuser = 'user1';
+		$dbuser = 'fcheeley';
 
-		$dbpass = 'thisuser';
+		$dbpass = 'fcheeley123';
 
 		$con = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);  
 		if(mysqli_connect_errno()){  // failed to connect to local db too
