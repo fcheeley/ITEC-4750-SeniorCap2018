@@ -31,7 +31,8 @@ include($_SERVER['DOCUMENT_ROOT'].'/_php/_objects/login_do.php');
 					<!-- Submit form  -->
 					<div class="form-group">
 						<div class="col-sm-offset-2 col-sm-9">
-							<input type="submit" value="Login" name="Login" class="btn btn-primary btn-lg submit">
+							<input type="submit" value="Login" name="Login" class="btn btn-primary btn-lg submit"
+							       onclick="return confirm('by clicking you agree')">
 						</div>
 					</div>
 					<!-- ++++ Change: Removed errorBlock handled in Login_DO rather than SESSION ++++ -->
